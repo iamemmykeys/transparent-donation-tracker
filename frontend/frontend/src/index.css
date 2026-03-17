@@ -1,0 +1,93 @@
+body {
+  margin: 0;
+  font-family: Arial, Helvetica, sans-serif;
+  background: #f4f6f8;
+}
+
+.container {
+  text-align: center;
+  padding: 40px;
+}
+
+header h1 {
+  color: #1a73e8;
+}
+
+header p {
+  color: #555;
+}
+
+.donation-card {
+  background: white;
+  width: 350px;
+  margin: 40px auto;
+  padding: 30px;
+  border-radius: 10px;
+  box-shadow: 0px 4px 12px rgba(0,0,0,0.1);
+}
+
+.donation-card input {
+  width: 90%;
+  padding: 10px;
+  margin-top: 10px;
+  margin-bottom: 20px;
+}
+
+.donation-card button {
+  background: #1a73e8;
+  color: white;
+  border: none;
+  padding: 12px 20px;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+.donation-card button:hover {
+  background: #0f5fd3;
+}
+
+.message {
+  margin-top: 15px;
+  color: green;
+}
+
+footer {
+  margin-top: 40px;
+  color: #777;
+}
+.history {
+  margin-top: 40px;
+}
+
+.donation-item {
+  background: white;
+  padding: 15px;
+  margin: 10px auto;
+  width: 350px;
+  border-radius: 8px;
+  box-shadow: 0px 3px 8px rgba(0,0,0,0.1);
+  text-align: left;
+}
+.wallet-btn{
+  margin-top:20px;
+  padding:10px 20px;
+  border:none;
+  background:#ff9800;
+  color:white;
+  border-radius:6px;
+  cursor:pointer;
+}
+
+.progress-bar{
+  width:300px;
+  height:10px;
+  background:#ddd;
+  margin:20px auto;
+  border-radius:5px;
+}
+
+.progress{
+  height:10px;
+  background:#4caf50;
+  border-radius:5px;
+}
