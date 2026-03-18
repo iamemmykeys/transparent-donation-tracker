@@ -55,24 +55,6 @@ The application is divided into three main components:
 cd smart-contract
 npx hardhat node
 
-## ⚠️ Limitations
-Currently runs on a local blockchain (Hardhat)
-
-Not yet deployed to a live Ethereum network
-
-Uses a test private key for demonstration purposes
-
-## 📈 Future Improvements
-
-Deploy to public Ethereum network (e.g., Sepolia)
-
-Add wallet connection (MetaMask)
-
-Improve UI/UX design
-
-Add donation history dashboard
-
-Implement authentication system
 
 
-## PROJECT TEAM This project was developed as part of the TechCrush Web3 Capstone Project (Cohort 5, Team 6). **Afolabi Emmanuel Ayo – Backend /frontend/smart-contract/ Integration....**Joy Samuel - Power-point presentation**
+
