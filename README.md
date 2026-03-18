@@ -1,4 +1,4 @@
-# Transparent Donation DApp
+# Transparent Community Donation Tracker DApp
 
 A blockchain-based donation tracking system designed to ensure transparency, accountability, and trust in charitable contributions.
 
